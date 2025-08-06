@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# Employee-performance-analysis-system-" 
+=======
+# Employee_Performance_Appraisal_App
+>>>>>>> 89fdfb119b106f2b6e07acc3eb651d43faa0b294
